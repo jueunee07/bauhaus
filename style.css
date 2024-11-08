@@ -1,0 +1,165 @@
+*{margin: 0;padding: 0;}
+body {  
+        font-family: 'twayfly';
+        src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_tway@1.0/twayfly.woff') format('woff');
+        font-weight: normal;
+        font-style: normal;}
+
+
+.tbox01{
+    width: 113px;
+    height: 391px;
+    position: relative;
+    top: 10px;
+    text-align: left;}
+.tbox02{
+    font-family: "SUIT", sans-serif;
+    font-size: 30px;
+    line-height: 34px;
+    padding-left: 100px;
+    padding-top: 50px;
+    letter-spacing: 0.2px;}
+.tbox03{
+    font-family: "SUIT", sans-serif;
+    font-size: 30px;
+    line-height: 32px;
+    padding-left: 800px;
+    padding-top: 30px;
+    letter-spacing: 0.2px;}
+.tbox04{
+    font-family: "SUIT", sans-serif;
+    font-size: 30px;
+    line-height: 32px;
+    padding-left: 100px;
+    padding-top: 30px;
+    letter-spacing: 0.2px;}
+.tbox05{
+    font-family: "SUIT", sans-serif;
+    font-size: 30px;
+    line-height: 32px;
+    padding-left: 150px;
+    letter-spacing: 0.2px;
+    padding-top: 20px;}
+.tittle01{
+    color: whitesmoke;
+    font-family: "twayfly";
+    font-size: 100px;
+    font-weight: 500;
+    letter-spacing: -0.5px;
+    line-height: 120px;
+    text-align: left;
+    padding-top: 380px;
+    padding-left: 200px;}
+.tittle02{
+    color: black;
+    font-family: "SUIT extrabold", sans-serif;
+    font-size: 70px;
+    letter-spacing: -0.5px;
+    text-align: left;
+    padding-top: 170px;
+    padding-left: 100px;}  
+.tittle03{
+    color: black;
+    font-family: "SUIT extrabold", sans-serif;
+    font-size: 70px;
+    letter-spacing: -0.5px;
+    text-align: left;
+    padding-top: 60px;
+    padding-left: 800px;}
+.tittle04{
+    color: black;
+    font-family: "SUIT extrabold", sans-serif;
+    font-size: 70px;
+    letter-spacing: -0.5px;
+    text-align: left;
+    padding-top: 50px;
+    padding-left: 100px;}
+.tittle05{
+    color: black;
+    font-family: "SUIT extrabold", sans-serif;
+    letter-spacing: -0.5px; 
+    font-size: 70px;
+    text-align: left;
+    padding-top: 800px;
+    padding-left: 150px;}
+.box01{
+    background-image: url(images/bg01.png);
+    width: 100vw;
+    height: 1080px;}
+.box02{
+    background-image: url(images/bg02.png);
+    width: 100vw; 
+    height: 1080px;}
+.box03{
+        background-image: url(images/bg03.png);
+        width: 100vw; 
+        height: 1180px;}
+.box04{
+    background-image: url(images/bg04.png);
+    width: 100vw;
+    height: 1710px;}
+.box05{
+    background-image: url(images/bg05.png);
+    width: 100vw;
+    height: 756px;
+    margin-top: 200px;}
+.box06{
+    background-image: url(images/bg06.png);
+    width: 100vw;
+    height: 470px;
+    margin-top: 620px;}
+.captiont01{
+    font-family: "SUIT", sans-serif;
+    width: 335px;
+    height: 220px;
+    padding-left: 1520px;
+    margin-top: 200px;
+    font-size: 15px;
+    line-height: 17px;
+    margin-top: -1650px;
+    padding-left: 1520px;
+    padding-top: 0;}
+.captiont02{
+    width: 335px;
+    height: 220px;
+    padding-left: 1520px;
+    margin-top: 200px;
+    font-family: "SUIT", sans-serif;
+    font-size: 15px;
+    line-height: 17px;
+    padding-left: 1520px;
+    padding-top: 0;}
+.captiont03{
+    width: 335px;
+    height: 220px;
+    padding-left: 1520px;
+    margin-top: 200px;
+    font-family: "SUIT", sans-serif;
+    font-size: 15px;
+    line-height: 17px;
+    padding-left: 1520px;
+    padding-top: 0;}
+.captiont04{
+    width: 335px;
+    height: 220px;
+    padding-left: 1520px;
+    margin-top: 200px;
+    font-family: "SUIT", sans-serif;
+    font-size: 15px;
+    line-height: 17px;
+    padding-left: 1520px;
+    padding-top: 0;}
+.captiont05{
+    font-family: "SUIT SemiBold", sans-serif;
+    font-size: 30px;
+    padding-left: 610px;
+    padding-top: 310px;}
+.captiont05-1{
+    font-family: "SUIT reguler", sans-serif;
+    font-size: 20px;
+    padding-left: 610px;
+    padding-top: 2px;}
+.captionp01{
+    padding-left: 265px;
+    margin-top: -350px;
+}
